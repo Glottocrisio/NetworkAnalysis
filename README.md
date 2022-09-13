@@ -143,6 +143,9 @@ https://cvcedhlab.hypotheses.org/106
 
 https://folgerpedia.folger.edu/Glossary_of_network_analysis_terms
 
+### Temporal (dynamic) networks
+https://www.youtube.com/watch?v=f8EqqzzuoFs
+
 ## 8. References
 
 Marten Düring et al., eds., Handbuch Historische Netzwerkforschung: Grundlagen Und Anwendungen, Schriften des Kulturwissenschaftlichen Instituts Essen (KWI) zur Methodenforschung Band 1 (Berlin: LIT, 2016).
